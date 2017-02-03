@@ -1,0 +1,6 @@
+https://developers.google.com/maps/documentation/javascript/markers
+https://developers.google.com/maps/documentation/javascript/infowindows
+https://developers.google.com/maps/documentation/android-api/location
+https://developers.google.com/maps/documentation/android-api/marker
+http://stackoverflow.com/questions/7873480/android-one-onclick-method-for-multiple-buttons
+http://wptrafficanalyzer.in/blog/showing-nearby-places-using-google-places-api-and-google-map-android-api-v2/

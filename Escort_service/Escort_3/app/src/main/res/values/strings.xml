@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Escort_3</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps_activity_driver">Map</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_user">user</string>
+    <string name="login_text">Mavs Escort Service</string>
+    <string name="login_netID">NetID</string>
+    <string name="login_number">100*******</string>
+    <string name="login_password">password</string>
+    <string name="diver_text">Driver</string>
+    <string name="rider_text">Rider</string>
+    <string name="loginbotton_text">LOGIN</string>
+    <string name="signupbutton_text">SIGN-UP</string>
+    <string name="secondpage_text">Welcome to the second page</string>
+    <string name="maps_text">Maps</string>
+    <string name="title_activity_signup">signup</string>
+    <string name="title_activity_signup1">com.example.manasram.escort_tracker.user.signup1</string>
+    <string name="title_activity_signup_page">signup_page</string>
+    <string name="signuppage_name">Name</string>
+    <string name="signuppage_netID">NetID</string>
+    <string name="signuppage_number">100*******</string>
+    <string name="signuppage_password">Password</string>
+    <string name="signuppage_PhoneNumber">Phone Number</string>
+    <string name="signuppage_submitbutton">Submit</string>
+    <string name="title_activity_driver_request_accept">driverRequestAccept</string>
+</resources>
